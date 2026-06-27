@@ -51,7 +51,7 @@ Open the URL in the browser.
 # $ open -a Simulator
 #
 # Build for simulator with:
-# $ cd example/webcrypto_demo_flutter_app/; flutter build ios --simulator
+# $ cd example/flutter_webcrypto_demo/webcrypto_demo_flutter_app/; flutter build ios --simulator
 
 
 
